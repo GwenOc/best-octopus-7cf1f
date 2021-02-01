@@ -7,7 +7,7 @@
         "tagline": "Header Tagline",
         "profile_img": "images/logo.svg",
         "profile_img_alt": "Logo",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
